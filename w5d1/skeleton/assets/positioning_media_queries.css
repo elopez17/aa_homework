@@ -23,7 +23,6 @@ header > img {
 }
 
 .ingredients-list {
-
   list-style: square inside;
 }
 
@@ -109,4 +108,3 @@ textarea {
 label {
     display: block;
 }
-
